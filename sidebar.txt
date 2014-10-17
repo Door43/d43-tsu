@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tsu:home|Door43 (tsu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tsu|d43-tsu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tsu/archive/master.zip|d43-tsu.zip]]
+
+**Recent Changes**
+{{changes>ns = tsu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tsu|Ethnologue data]]
+
